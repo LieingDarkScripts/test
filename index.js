@@ -1,5 +1,11 @@
-<html dir="ltr" lang="en"><head>
-        <meta name="description" content="hey guys slay what you wana slay(ben)">
+<html dir="ltr" lang="en">
+
+<head>
+    <meta name="description" content="hey guys slay what you wana slay(ben)"></meta>
 </head>
-<body><b>slay</b>
-</body></html>
+
+<body>
+    <b>slay</b>
+</body>
+
+</html>
